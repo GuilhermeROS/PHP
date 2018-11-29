@@ -2,6 +2,6 @@
 
 echo "<strong>Hello Boy</strong>";
 
-echo "Hi friend"
+echo "Hi friend";
 
 ?>
