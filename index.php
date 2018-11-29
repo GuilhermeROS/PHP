@@ -1,5 +1,7 @@
 <?php
 
-echo "<strong>Hello Boy</strong>"
+echo "<strong>Hello Boy</strong>";
+
+echo "Hi friend"
 
 ?>
